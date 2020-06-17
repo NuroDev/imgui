@@ -50,3 +50,7 @@ examples/example_sdl_opengl3/example_sdl_opengl3
 
 # Custom output directory
 target/
+
+# Microsoft Visual Studio project files
+*.sln
+*.vcxproj*
